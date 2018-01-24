@@ -1,0 +1,7 @@
+c:\users\viper\documents\visual studio 2017\Projects\Mono\Mono\bin\Debug\Mono.exe.config
+c:\users\viper\documents\visual studio 2017\Projects\Mono\Mono\bin\Debug\Mono.exe
+c:\users\viper\documents\visual studio 2017\Projects\Mono\Mono\bin\Debug\Mono.pdb
+c:\users\viper\documents\visual studio 2017\Projects\Mono\Mono\obj\Debug\Mono.csprojResolveAssemblyReference.cache
+c:\users\viper\documents\visual studio 2017\Projects\Mono\Mono\obj\Debug\Mono.exe
+c:\users\viper\documents\visual studio 2017\Projects\Mono\Mono\obj\Debug\Mono.pdb
+C:\Users\Viper\Documents\Visual Studio 2017\Projects\Mono\Mono\obj\Debug\Mono.csproj.CoreCompileInputs.cache
